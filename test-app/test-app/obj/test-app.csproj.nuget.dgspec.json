@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kemal\\OneDrive\\Masaüstü\\git-projects\\struct-zip\\test-app\\test-app\\test-app.csproj": {}
+    "C:\\Users\\kemal\\OneDrive\\Masaüstü\\git-projects\\struct-zip\\test-app\\test-app\\test-app\\test-app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kemal\\OneDrive\\Masaüstü\\git-projects\\struct-zip\\test-app\\test-app\\test-app.csproj": {
+    "C:\\Users\\kemal\\OneDrive\\Masaüstü\\git-projects\\struct-zip\\test-app\\test-app\\test-app\\test-app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kemal\\OneDrive\\Masaüstü\\git-projects\\struct-zip\\test-app\\test-app\\test-app.csproj",
+        "projectUniqueName": "C:\\Users\\kemal\\OneDrive\\Masaüstü\\git-projects\\struct-zip\\test-app\\test-app\\test-app\\test-app.csproj",
         "projectName": "test-app",
-        "projectPath": "C:\\Users\\kemal\\OneDrive\\Masaüstü\\git-projects\\struct-zip\\test-app\\test-app\\test-app.csproj",
+        "projectPath": "C:\\Users\\kemal\\OneDrive\\Masaüstü\\git-projects\\struct-zip\\test-app\\test-app\\test-app\\test-app.csproj",
         "packagesPath": "C:\\Users\\kemal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kemal\\OneDrive\\Masaüstü\\git-projects\\struct-zip\\test-app\\test-app\\obj\\",
+        "outputPath": "C:\\Users\\kemal\\OneDrive\\Masaüstü\\git-projects\\struct-zip\\test-app\\test-app\\test-app\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
