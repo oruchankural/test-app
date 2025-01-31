@@ -1,0 +1,6 @@
+﻿services:
+  test-app:
+    image: test-app
+    build:
+      context: .
+      dockerfile: test-app/Dockerfile
